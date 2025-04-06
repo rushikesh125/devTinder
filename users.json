@@ -1,0 +1,83 @@
+[
+    {
+      "id": 1,
+      "name": "Aarav Sharma",
+      "email": "aarav.sharma@example.com",
+      "age": 25,
+      "gender": "Male",
+      "isActive": true
+    },
+    {
+      "id": 2,
+      "name": "Priya Mehta",
+      "email": "priya.mehta@example.com",
+      "age": 29,
+      "gender": "Female",
+      "isActive": false
+    },
+    {
+      "id": 3,
+      "name": "Rohan Patel",
+      "email": "rohan.patel@example.com",
+      "age": 32,
+      "gender": "Male",
+      "isActive": true
+    },
+    {
+      "id": 4,
+      "name": "Ananya Singh",
+      "email": "ananya.singh@example.com",
+      "age": 23,
+      "gender": "Female",
+      "isActive": true
+    },
+    {
+      "id": 5,
+      "name": "Kabir Khan",
+      "email": "kabir.khan@example.com",
+      "age": 28,
+      "gender": "Male",
+      "isActive": false
+    },
+    {
+      "id": 6,
+      "name": "Isha Desai",
+      "email": "isha.desai@example.com",
+      "age": 26,
+      "gender": "Female",
+      "isActive": true
+    },
+    {
+      "id": 7,
+      "name": "Arjun Verma",
+      "email": "arjun.verma@example.com",
+      "age": 31,
+      "gender": "Male",
+      "isActive": false
+    },
+    {
+      "id": 8,
+      "name": "Sneha Reddy",
+      "email": "sneha.reddy@example.com",
+      "age": 27,
+      "gender": "Female",
+      "isActive": true
+    },
+    {
+      "id": 9,
+      "name": "Nikhil Joshi",
+      "email": "nikhil.joshi@example.com",
+      "age": 30,
+      "gender": "Male",
+      "isActive": true
+    },
+    {
+      "id": 10,
+      "name": "Meera Kapoor",
+      "email": "meera.kapoor@example.com",
+      "age": 24,
+      "gender": "Female",
+      "isActive": false
+    }
+  ]
+  
